@@ -1,7 +1,3 @@
-# Srylius - PHP Framework
-> This project may contain parts from many open source projects. Endless thanks to all open source community 
-> members for this. If you think there is a problem with this subject, you can contact.
-
 ## Srylius : About
 **Srylius Framework** has been based on the principle of zero dependency, and has reached today with the 
 aim of being an advanced framework that will allow you to develop applications in the simplest way. In 
@@ -28,34 +24,3 @@ training sets, ready-made sample projects and more. You can also have the chance
 certification programs on the **[Srylius Academy](https://academy.srylius.com/)** page. Since a 
 certain number of certificates will be distributed each year, you should definitely follow the 
 announcements.
-
-## Srylius : Sponsors
-We would like to express our endless thanks to all our sponsors for their support by financing the 
-development of the Srylius PHP Framework. If you are interested in sponsoring, you can visit 
-**[Srylius Sponsor](https://sponsor.srylius.com)** for more detailed information on this.
-
-- There is currently no sponsor that finances the development.
-
-## Srylius : Security
-If you think there is a security vulnerability in the Srylius PHP Framework, you can help resolve the 
-issue immediately by sending an e-mail to **Selçuk Çukur** at **<hk@selcukcukur.com.tr>**. Please do 
-not publicly post security vulnerabilities.
-
-## Srylius : License
-The Srylius framework is published as open source. **[MIT License](License.md)** license is used, which 
-is one of the known open source coding licenses related to license terms. You can get detailed information 
-about the license terms by visiting the link given below.
-
-- **[MIT License](License.md)**
-
-## Srylius : Authors
-- You can also view the list of contributors to this project by clicking **[this link](https://github.com/Srylius/Logger/graphs/contributors)**.
-
-[![Facebook Badge](https://img.shields.io/badge/selcukcukur->-blue?style=for-the-badge&logo=facebook)](https://facebook.com/selcukcukur/)
-[![Twitter Badge](https://img.shields.io/badge/selcukcukur->-blue?style=for-the-badge&logo=twitter)](https://twitter.com/selcukcukur/)
-[![Instagram Badge](https://img.shields.io/badge/selcukcukur->-blue?style=for-the-badge&logo=instagram)](https://instagram.com/selcukcukur/)
-[![Linkedin Badge](https://img.shields.io/badge/selcukcukur->-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/selcukcukur/)
-[![YouTube Badge](https://img.shields.io/badge/selcukcukur->-blue?style=for-the-badge&logo=youtube)](https://youtube.com/c/selcukcukur/)
-[![GitHub Badge](https://img.shields.io/badge/selcukcukur->-blue?style=for-the-badge&logo=github)](https://github.com/selcukcukur/)
-[![Mail Badge](https://img.shields.io/badge/selcukcukur->-blue?style=for-the-badge&logo=mail.ru)](mailto:hk@selcukcukur.com.tr)
-[![WebSite Badge](https://img.shields.io/badge/selcukcukur->-blue?style=for-the-badge&logo=semantic-release)](https://selcukcukur.com.tr/)
